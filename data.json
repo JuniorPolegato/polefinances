@@ -1,0 +1,60 @@
+[
+    {
+        "title": "The Total Money Makeover",
+        "description": "A popular book for getting out of debt and building wealth through 'Baby Steps'. Great for beginners.",
+        "url": "https://example.com/money-makeover",
+        "type": "Book",
+        "author": "Dave Ramsey",
+        "tags": ["debt", "budgeting", "beginners", "wealth building"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Mr. Money Mustache Blog",
+        "description": "A financial independence blog focusing on extreme saving, early retirement (FIRE), and smart lifestyle choices.",
+        "url": "https://www.mrmoneymustache.com/",
+        "type": "Website/Blog",
+        "tags": ["FIRE", "saving", "early retirement", "lifestyle"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Investopedia: Cryptocurrency Explained",
+        "description": "Comprehensive guide to understanding Bitcoin, Ethereum, and the broader world of digital assets and blockchain technology.",
+        "url": "https://www.investopedia.com/cryptocurrency-4990425",
+        "type": "Article/Document",
+        "tags": ["crypto", "investing", "bitcoin", "blockchain"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Khan Academy: Taxes and Investing",
+        "description": "Free educational videos and lessons on topics like income tax, capital gains, and basic stock market concepts.",
+        "url": "https://www.khanacademy.org/economics-finance-domain/core-finance",
+        "type": "Video/Course",
+        "tags": ["taxes", "investing", "education", "stocks"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "You Need A Budget (YNAB)",
+        "description": "A popular zero-based budgeting software and methodology focused on giving every dollar a job.",
+        "url": "https://www.ynab.com/",
+        "type": "Tool/Software",
+        "tags": ["budgeting", "software", "zero-based", "tracking"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "The Simple Path to Wealth",
+        "description": "A simple guide to long-term investing, primarily advocating for low-cost index funds.",
+        "url": "https://example.com/simple-path",
+        "type": "Book",
+        "author": "J.L. Collins",
+        "tags": ["investing", "index funds", "retirement", "simplicity"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "How Compound Interest Works",
+        "description": "A video illustrating the power of compounding over time, a core concept in long-term saving.",
+        "url": "https://www.youtube.com/watch?v=R4N5C-KkF4I",
+        "type": "Video",
+        "tags": ["compounding", "saving", "interest", "basics"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    }
+]

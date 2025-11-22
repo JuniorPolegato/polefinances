@@ -1,0 +1,288 @@
+[
+    {
+        "title": "Me Poupe! - Nathalia Arcuri",
+        "description": "O maior canal de finanças do mundo, focado em desmistificar o dinheiro com humor e linguagem acessível. Ideal para quem está começando a organizar a vida financeira.",
+        "url": "https://www.youtube.com/@mepoupe",
+        "type": "Canal no YouTube",
+        "tags": ["educação financeira", "iniciantes", "dívidas", "investimento", "nathalia arcuri"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "O Primo Rico - Thiago Nigro",
+        "description": "Canal focado em investimentos e mentalidade para alcançar a liberdade financeira. Popularizou o lema 'do mil ao milhão'.",
+        "url": "https://www.youtube.com/@PrimoRico",
+        "type": "Canal no YouTube",
+        "tags": ["investimento", "ações", "fundos imobiliários", "thiago nigro", "liberdade financeira"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Casais Inteligentes Enriquecem Juntos",
+        "description": "Livro clássico de Gustavo Cerbasi sobre como casais podem alinhar seus objetivos financeiros para construir patrimônio juntos.",
+        "url": "https://www.amazon.com.br/dp/8543104 casal-inteligente-enriquece-junto/dp/8543104 casal-inteligente-enriquece-junto/",
+        "type": "Livro",
+        "author": "Gustavo Cerbasi",
+        "tags": ["finanças para casais", "orçamento", "planejamento", "gustavo cerbasi"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Status Invest",
+        "description": "Plataforma completa para análise de ações, fundos imobiliários (FIIs), BDRs e outros ativos. Essencial para quem investe na bolsa.",
+        "url": "https://statusinvest.com.br/",
+        "type": "Ferramenta/Site",
+        "tags": ["análise de ativos", "ações", "fiis", "indicadores", "ferramenta"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Tesouro Direto: O que é e como investir",
+        "description": "Guia oficial do Tesouro Nacional explicando o que são os títulos públicos (Selic, IPCA+, Prefixado) e como começar a investir.",
+        "url": "https://www.tesourodireto.com.br/conheca/o-que-e.htm",
+        "type": "Artigo/Site",
+        "tags": ["tesouro direto", "renda fixa", "investimento seguro", "iniciantes", "selic"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Mobills",
+        "description": "Aplicativo de controle financeiro para gerenciar despesas, receitas, cartões de crédito e investimentos em um só lugar.",
+        "url": "https://www.mobills.com.br/",
+        "type": "Ferramenta/Software",
+        "tags": ["orçamento", "controle financeiro", "app", "despesas"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Do Mil ao Milhão. Sem Cortar o Cafezinho.",
+        "description": "Best-seller de Thiago Nigro que aborda os três pilares para a riqueza: gastar bem, investir melhor e ganhar mais.",
+        "url": "https://www.amazon.com.br/dp/8595083279/",
+        "type": "Livro",
+        "author": "Thiago Nigro",
+        "tags": ["investimento", "mentalidade", "construção de riqueza", "thiago nigro"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Suno Research",
+        "description": "Casa de análise com notícias, artigos e relatórios sobre o mercado financeiro, com foco em investimentos de longo prazo (value investing).",
+        "url": "https://www.suno.com.br/artigos/",
+        "type": "Website/Blog",
+        "tags": ["notícias", "análise de ativos", "value investing", "dividendos"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Você MAIS Rico - Bruno Perini",
+        "description": "Canal com foco em diversificação de investimentos, incluindo bolsa no Brasil e no exterior, e conceitos de macroeconomia.",
+        "url": "https://www.youtube.com/@brunoperini",
+        "type": "Canal no YouTube",
+        "tags": ["investimento no exterior", "diversificação", "macroeconomia", "bruno perini"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "InfoMoney",
+        "description": "Um dos maiores portais de notícias sobre finanças, investimentos e negócios do Brasil. Cobre desde o básico até análises complexas.",
+        "url": "https://www.infomoney.com.br/",
+        "type": "Website/Blog",
+        "tags": ["notícias", "mercado financeiro", "política", "economia"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Clube do Valor",
+        "description": "Canal e blog focados em estratégias de investimento quantitativas e em carteiras de longo prazo, especialmente para aposentadoria.",
+        "url": "https://www.youtube.com/@ClubedoValor",
+        "type": "Canal no YouTube",
+        "tags": ["aposentadoria", "investimento quantitativo", "value investing", "longo prazo"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Guia de Imposto de Renda para Investidores",
+        "description": "Artigo da B3, a bolsa de valores brasileira, explicando as regras gerais de declaração de Imposto de Renda para diferentes tipos de investimentos.",
+        "url": "https://edu.b3.com.br/artigo/imposto-de-renda-guia-do-investidor",
+        "type": "Artigo/Documento",
+        "tags": ["impostos", "imposto de renda", "declaração", "investimento", "b3"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "O Homem Mais Rico da Babilônia",
+        "description": "Um clássico que ensina lições atemporais sobre como poupar, evitar dívidas e construir riqueza através de parábolas simples.",
+        "url": "https://www.amazon.com.br/dp/8595081535/",
+        "type": "Livro",
+        "author": "George S. Clason",
+        "tags": ["finanças pessoais", "mentalidade", "poupança", "clássico"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Fábio Holder",
+        "description": "Canal com análises profundas de empresas e FIIs, focado em investidores que buscam qualidade e dividendos para o longo prazo.",
+        "url": "https://www.youtube.com/@CanaldoHolder",
+        "type": "Canal no YouTube",
+        "tags": ["análise de empresas", "dividendos", "fiis", "value investing"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Cripto Select - Exame",
+        "description": "Seção da revista Exame dedicada a notícias e análises sobre o mercado de criptomoedas, blockchain e ativos digitais.",
+        "url": "https://exame.com/cripto/",
+        "type": "Website/Blog",
+        "tags": ["cripto", "bitcoin", "ethereum", "blockchain", "notícias"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Calculadora de Juros Compostos - Mobills",
+        "description": "Ferramenta online e gratuita para simular o crescimento do seu dinheiro ao longo do tempo com o poder dos juros compostos.",
+        "url": "https://www.mobills.com.br/calculadoras/calculadora-juros-compostos/",
+        "type": "Ferramenta/Site",
+        "tags": ["juros compostos", "simulador", "ferramenta", "planejamento"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Pai Rico, Pai Pobre",
+        "description": "Livro que mudou a mentalidade de milhões de pessoas sobre dinheiro, focando na importância da educação financeira e da construção de ativos.",
+        "url": "https://www.amazon.com.br/dp/8550801488/",
+        "type": "Livro",
+        "author": "Robert T. Kiyosaki",
+        "tags": ["mentalidade", "educação financeira", "ativos", "empreendedorismo"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Fundamentus",
+        "description": "Site com dados e indicadores fundamentalistas de todas as empresas listadas na bolsa brasileira. Mais técnico, porém muito completo.",
+        "url": "https://www.fundamentus.com.br/",
+        "type": "Ferramenta/Site",
+        "tags": ["análise fundamentalista", "indicadores", "ações", "ferramenta"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "FIIs para Iniciantes - Clube FII",
+        "description": "Guia introdutório sobre Fundos de Investimento Imobiliário (FIIs), explicando o que são, como funcionam e como analisar.",
+        "url": "https://www.clubefii.com.br/fiis-para-iniciantes",
+        "type": "Artigo/Site",
+        "tags": ["fiis", "fundos imobiliários", "renda passiva", "iniciantes"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Os Segredos da Mente Milionária",
+        "description": "Livro de T. Harv Eker que explora como os modelos mentais sobre dinheiro influenciam nosso sucesso financeiro.",
+        "url": "https://www.amazon.com.br/dp/8575422391/",
+        "type": "Livro",
+        "author": "T. Harv Eker",
+        "tags": ["mentalidade", "psicologia financeira", "desenvolvimento pessoal"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Economirna - Mirna Borges",
+        "description": "Canal com dicas práticas sobre organização financeira, investimentos para iniciantes e como usar o dinheiro de forma mais inteligente no dia a dia.",
+        "url": "https://www.youtube.com/@EconoMirna",
+        "type": "Canal no YouTube",
+        "tags": ["organização financeira", "iniciantes", "poupança", "investimento"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Como organizar as finanças e sair do vermelho",
+        "description": "Matéria do G1 com um passo a passo prático para quem está endividado e precisa organizar a vida financeira urgentemente.",
+        "url": "https://g1.globo.com/economia/educacao-financeira/noticia/2021/01/11/como-organizar-as-financas-e-sair-do-vermelho-em-2021-veja-o-passo-a-passo.ghtml",
+        "type": "Artigo/Documento",
+        "tags": ["dívidas", "orçamento", "organização financeira", "passo a passo"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Investidor Sardinha - Raul Sena",
+        "description": "Canal que aborda investimentos na bolsa de valores com uma linguagem irreverente e foco em encontrar boas oportunidades.",
+        "url": "https://www.youtube.com/@InvestidorSardinha",
+        "type": "Canal no YouTube",
+        "tags": ["ações", "análise de empresas", "oportunidades", "bolsa de valores"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Guia da Previdência Privada - XP",
+        "description": "Guia completo da XP Investimentos sobre planos de previdência privada (PGBL e VGBL), suas vantagens, desvantagens e como escolher o melhor para você.",
+        "url": "https://conteudos.xpi.com.br/previdencia-privada/guia-completo/",
+        "type": "Artigo/Site",
+        "tags": ["previdência privada", "aposentadoria", "pgbl", "vgbl", "planejamento"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Organizze",
+        "description": "Alternativa ao Mobills, é um dos mais tradicionais aplicativos de controle financeiro pessoal do Brasil.",
+        "url": "https://www.organizze.com.br/",
+        "type": "Ferramenta/Software",
+        "tags": ["orçamento", "controle financeiro", "app", "despesas"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Érico Rocha - Fórmula de Lançamento",
+        "description": "Pioneiro da 'Fórmula de Lançamento' no Brasil. Ensina empreendedores a venderem produtos digitais em larga escala através de lançamentos.",
+        "url": "https://www.youtube.com/@ericorocha",
+        "type": "Canal no YouTube",
+        "tags": ["marketing digital", "vendas online", "lançamento", "empreendedorismo", "érico rocha"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Pedro Sobral - Tráfego Pago",
+        "description": "Maior especialista em tráfego pago do Brasil. Ensina como criar anúncios eficazes no Google, Facebook, Instagram e outras plataformas para vender produtos e serviços.",
+        "url": "https://www.youtube.com/@pedrosobral",
+        "type": "Canal no YouTube",
+        "tags": ["marketing digital", "tráfego pago", "anúncios", "vendas online", "pedro sobral"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Hotmart - Plataforma de Produtos Digitais",
+        "description": "Plataforma líder na América Latina para criar, vender e comprar cursos online, e-books e outros produtos digitais. Essencial para produtores de conteúdo.",
+        "url": "https://www.hotmart.com/pt-BR",
+        "type": "Ferramenta/Site",
+        "tags": ["vendas online", "produtos digitais", "produtor de conteúdo", "hotmart", "ferramenta"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Geração de Valor - Flávio Augusto",
+        "description": "Projeto de Flávio Augusto (fundador da Wise Up) focado em empreendedorismo, mentalidade de sucesso e como construir negócios do zero.",
+        "url": "https://www.instagram.com/geracaodevalor/",
+        "type": "Website/Blog",
+        "tags": ["empreendedorismo", "mentalidade", "negócios", "vendas", "flávio augusto"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Priscila Zillo - Marketing de Conteúdo",
+        "description": "Especialista em marketing de conteúdo e posicionamento digital. Ajuda profissionais e marcas a se destacarem nas redes sociais, especialmente no Instagram.",
+        "url": "https://www.youtube.com/@priscilazillo",
+        "type": "Canal no YouTube",
+        "tags": ["marketing de conteúdo", "redes sociais", "instagram", "produção de conteúdo", "priscila zillo"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "A Arte de Escrever para a Web",
+        "description": "Livro de Paulo Maccedo que é um guia prático sobre copywriting e produção de conteúdo persuasivo para blogs, sites e redes sociais.",
+        "url": "https://www.amazon.com.br/dp/8550802921/",
+        "type": "Livro",
+        "author": "Paulo Maccedo",
+        "tags": ["copywriting", "produção de conteúdo", "marketing digital", "escrita"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Iagor Gonçalves - Dropshipping",
+        "description": "Um dos maiores especialistas em dropshipping no Brasil. Seu canal ensina desde o básico até estratégias avançadas para criar e escalar uma loja online sem estoque.",
+        "url": "https://www.youtube.com/@iagorgoncalves",
+        "type": "Canal no YouTube",
+        "tags": ["dropshipping", "ecommerce", "vendas online", "shopify", "iagor gonçalves"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Douglas Souza - O Rei do Drop",
+        "description": "Conhecido como 'O Rei do Drop', Douglas compartilha dicas práticas e estratégias para ter sucesso com dropshipping, incluindo mineração de produtos e tráfego pago.",
+        "url": "https://www.youtube.com/@douglassouza",
+        "type": "Canal no YouTube",
+        "tags": ["dropshipping", "ecommerce", "mineração de produtos", "tráfego pago", "douglas souza"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "O que é dropshipping e como começar - Shopify BR",
+        "description": "Guia completo da Shopify, a principal plataforma de e-commerce, explicando o modelo de negócio de dropshipping, suas vantagens e o passo a passo para montar sua loja.",
+        "url": "https://www.shopify.com/br/blog/o-que-e-dropshipping",
+        "type": "Artigo/Site",
+        "tags": ["dropshipping", "guia", "iniciantes", "shopify", "ecommerce"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    },
+    {
+        "title": "Yampi - Checkout Transparente",
+        "description": "Plataforma brasileira popular para e-commerce, conhecida por seu checkout transparente que aumenta a conversão de vendas. Muito usada em operações de dropshipping.",
+        "url": "https://www.yampi.com.br/",
+        "type": "Ferramenta/Site",
+        "tags": ["dropshipping", "ferramenta", "checkout", "ecommerce", "vendas online"],
+        "lastUpdated": "2024-01-01T00:00:00.000Z"
+    }
+]

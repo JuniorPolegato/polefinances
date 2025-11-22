@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title id="pageTitle">Recursos Modernos de Finanças Pessoais 💰</title>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+        <link rel="icon" type="image/png" href="favicon.png">
+    </head>
+    <body data-lang="pt-BR">
+
+        <header class="hero">
+            <div class="hero-content">
+                <button id="langToggle" class="lang-toggle-button" aria-label="Alternar idioma para Inglês Americano">
+                    <span class="flag">🇺🇸</span> EN-US
+                </button>
+
+                <h1 id="heroTitle">Domine Sua Jornada Financeira</h1>
+                <p id="heroSubtitle">Recursos selecionados para o sucesso financeiro pessoal.</p>
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Pesquise por 'orçamento', 'cripto', 'aposentadoria'..." autocomplete="off">
+                </div>
+            </div>
+        </header>
+
+        <main class="container">
+            <div class="results-header">
+                <div id="resultsCount" class="results-count"></div>
+                <div class="header-actions">
+                    <div class="dropdown">
+                        <button id="sortBtn" class="my-cards-button">Ordenar por &#9662;</button>
+                        <div id="sortDropdown" class="dropdown-content">
+                            <a id="sortByTitle" href="#">Título</a>
+                            <a id="sortByNewest" href="#">Mais Recentes</a>
+                            <a id="sortByOldest" href="#">Mais Antigos</a>
+                        </div>
+                    </div>
+                    <div class="dropdown">
+                        <button id="myCardsBtn" class="my-cards-button">Meus Cartões &#9662;</button>
+                        <div id="myCardsDropdown" class="dropdown-content">
+                            <a id="shareEmail" href="#">Compartilhar por E-mail</a>
+                            <a id="shareWhatsapp" href="#" target="_blank">Compartilhar no WhatsApp</a>
+                            <a id="shareTelegram" href="#" target="_blank">Compartilhar no Telegram</a>
+                            <a id="importJsonBtn" href="#">Importar Cartões</a>
+                            <a id="exportJsonBtn" href="#">Exportar Cartões</a>
+                        </div>
+                    </div>
+                    <button id="addResourceBtn" class="add-resource-button">Adicionar Recurso +</button>
+                </div>
+            </div>
+            <section id="resultsContainer" class="results-grid">
+                <div class="initial-message">
+                    <h2 id="initialTitle">🔍 Comece sua busca!</h2>
+                    <p id="initialText">Digite uma palavra-chave acima para encontrar recursos relevantes em nossa biblioteca.</p>
+                </div>
+            </section>
+        </main>
+
+        <footer><p id="footerText">&copy; 2025 Central de Finanças Pessoais. Conhecimento é Poder.</p></footer>
+
+        <!-- Fuse.js for fuzzy searching -->
+        <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+
+        <!-- Hidden file input for import -->
+        <input type="file" id="importFileInput" accept=".json" style="display: none;">
+
+        <script src="script.js"></script>
+
+        <!-- Back to Top Button -->
+        <button id="backToTopBtn" class="back-to-top-button" title="Voltar ao topo">&#9650;</button>
+    </body>
+
+    <!-- Add Resource Modal -->
+    <div id="addResourceModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2 id="modalTitle">Adicionar Novo Recurso</h2>
+            <form id="addResourceForm">
+                <input type="text" id="formTitle" placeholder="Título" required>
+                <textarea id="formDescription" placeholder="Descrição" required></textarea>
+                <input type="url" id="formUrl" placeholder="URL do Recurso" required>
+                <input type="text" id="formType" placeholder="Tipo (ex: Livro, Canal no YouTube)" required>
+                <input type="text" id="formTags" placeholder="Tags (separadas por vírgula)">
+                <div class="modal-actions">
+                    <button type="button" id="cancelBtn" class="modal-button cancel">Cancelar</button>
+                    <button type="submit" id="saveBtn" class="modal-button save">Salvar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Confirmation Modal -->
+    <div id="confirmModal" class="modal">
+        <div class="modal-content">
+            <h2 id="confirmModalTitle">Confirmar Ação</h2>
+            <p id="confirmModalText">Você tem certeza?</p>
+            <div id="confirmRememberContainer" class="remember-choice">
+                <input type="checkbox" id="confirmRememberCheckbox">
+                <label for="confirmRememberCheckbox" id="confirmRememberLabel">Lembrar minha escolha</label>
+            </div>
+            <div class="modal-actions">
+                <button type="button" id="confirmNoBtn" class="modal-button cancel">Não</button>
+                <button type="button" id="confirmYesBtn" class="modal-button save">Sim</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Info Modal -->
+    <div id="infoModal" class="modal">
+        <div class="modal-content">
+            <h2 id="infoModalTitle">Informação</h2>
+            <p id="infoModalText"></p>
+            <div class="modal-actions">
+                <button type="button" id="infoOkBtn" class="modal-button save">OK</button>
+            </div>
+        </div>
+    </div>
+
+</html>
