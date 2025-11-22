@@ -28,7 +28,7 @@ Now can you generate a favicon.png like a bag full of coins and banknote, some o
 ```
 - PS: favicon.png image was edited with GIMP to get a transparent background, and also header background edited to remove a grave accent from Pole word.
 
-# Adjusting de generated code in VS Codim on Linux
+# Adjusting the generated code in VS Codim on Linux
 ```
 Anylise @index.html and @script.js and set PT-BR to the default language.
 ```
